@@ -1,6 +1,23 @@
+/* NAVBAR */
+
 .nav-don {
     height: 50px;
     width: 170px;
     margin: 0;
     background-color: rgb(46, 46, 46);
+}
+
+/* FOOTER */ 
+
+.bd-footer a {
+    color: #495057;
+    text-decoration: none;
+}
+
+.bd-footer a:hover {
+    color: #f89b12;
+}
+
+.footer-title {
+    color: #f89b12;
 }
