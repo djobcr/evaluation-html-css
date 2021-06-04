@@ -7,6 +7,14 @@
     background-color: rgb(46, 46, 46);
 }
 
+.navbar-hover-link a:hover {
+    color: #f89b12;
+}
+
+.navbar {
+    background-color: #f89b12;
+}
+
 /* FOOTER */ 
 
 .bd-footer a {
