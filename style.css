@@ -15,6 +15,16 @@
     background-color: #f89b12;
 }
 
+/* ARTICLE */
+
+.btn-card-custom {
+    background-color: #f89b12;
+}
+
+aside {
+    height: auto;
+}
+
 /* FOOTER */ 
 
 .bd-footer a {
