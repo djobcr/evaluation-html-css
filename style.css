@@ -15,6 +15,10 @@
     background-color: #f89b12;
 }
 
+.custom-toggler.navbar-toggler {
+    border-color: #fff;
+} 
+
 /* ARTICLE */
 
 .btn-card-custom {
@@ -23,6 +27,7 @@
 
 aside {
     height: auto;
+
 }
 
 /* FOOTER */ 
