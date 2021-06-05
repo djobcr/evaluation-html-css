@@ -25,6 +25,10 @@
     background-color: #f89b12;
 }
 
+.title-apropos {
+    color: #f89b12;
+}
+
 /* FOOTER */ 
 
 .bd-footer a {
@@ -38,4 +42,10 @@
 
 .footer-title {
     color: #f89b12;
+}
+
+/* ASIDE a-propos */ 
+
+.positionsticky {
+    position: fixed;
 }
