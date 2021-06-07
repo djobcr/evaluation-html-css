@@ -43,3 +43,6 @@
 .footer-title {
     color: #f89b12;
 }
+.aside-border-right {
+    border-right: 5px solid #f89b12;
+}
