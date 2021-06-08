@@ -1,5 +1,3 @@
-/* NAVBAR */
-
 .nav-don {
     height: 50px;
     width: 170px;
@@ -19,8 +17,6 @@
     border-color: #fff;
 } 
 
-/* ARTICLE */
-
 .btn-card-custom {
     background-color: #f89b12;
 }
@@ -28,8 +24,6 @@
 .title-apropos {
     color: #f89b12;
 }
-
-/* FOOTER */ 
 
 .bd-footer a {
     color: #495057;
@@ -43,6 +37,15 @@
 .footer-title {
     color: #f89b12;
 }
+
 .aside-border-right {
     border-right: 5px solid #f89b12;
+}
+
+.campagne-agir-ensemble {
+    background-image: url(https://visuels.l214.com/sites/www.l214.com/2018/pages/campagne/campagne-action-clic.png), url(https://visuels.l214.com/sites/www.l214.com/2018/pages/campagne/fond-campagne-action.jpg);
+    background-position: right bottom, left top;
+    background-size: 40%, cover;
+    background-repeat: no-repeat;
+    color: white;
 }
